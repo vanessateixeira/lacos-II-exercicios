@@ -4,6 +4,7 @@ Crie um programa que peça um input de número para o usuário. Com este número
 
 **Utilize o for...in para resolver**
 
+
 Exemplo com entrada **`7`**:
 ```jsx
 7
